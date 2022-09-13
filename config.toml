@@ -1,0 +1,4 @@
+baseURL = 'https://vibrationplatepro.com'
+languageCode = 'en-us'
+title = 'Vibration Plate Pro'
+theme = "congo"
