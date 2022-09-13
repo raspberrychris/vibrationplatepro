@@ -5,15 +5,15 @@ isoCode = "en-AU"
 weight = 1
 rtl = false
 
-title = "Cat Tree Guide"
+title = "Vibration Plate Pro"
 #logo = "img/hmg-logo.jpeg"
 description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-copyright = "&copy; 2022 Cat Tree Guide.  CATTREEGUIDE.COM ARE A PARTICIPANT IN THE AMAZON SERVICES LLC ASSOCIATES PROGRAM, AN AFFILIATE ADVERTISING PROGRAM DESIGNED TO PROVIDE A MEANS FOR US TO EARN FEES BY LINKING TO AMAZON.COM AND AFFILIATED SITES"
+copyright = "&copy; 2022 Vibration Plate Pro.  VIBRATIONPLATEPRO.COM ARE A PARTICIPANT IN THE AMAZON SERVICES LLC ASSOCIATES PROGRAM, AN AFFILIATE ADVERTISING PROGRAM DESIGNED TO PROVIDE A MEANS FOR US TO EARN FEES BY LINKING TO AMAZON.COM AND AFFILIATED SITES"
 
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Cat Tree Guide"
+  name = "Vibration Plate Pro"
   #image = "img/hmg-logo.jpeg"
   headline = "Not your ordinary theme!"
   bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
